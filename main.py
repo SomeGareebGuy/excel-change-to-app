@@ -13,10 +13,10 @@ current_time = datetime.datetime.now()
 # Connection to the ElephantSQL database
 db_params = {
     'host': 'arjuna.db.elephantsql.com',
-    'port': '5432',
-    'database': 'qciczfll',
-    'user': 'qciczfll',
-    'password': 'sp471twytAS2gsyMGdYfXsweswx7-Ott'
+    'port': 'port',
+    'database': 'database',
+    'user': 'user',
+    'password': 'pswrd'
 }
 
 # Configuring the connection
